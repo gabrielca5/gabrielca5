@@ -21,7 +21,7 @@ Lógica de programação
 Desenvolvimento web básico - Django
 
 📫 Como me encontrar
-LinkedIn: Seu perfil
+LinkedIn: https://www.linkedin.com/in/gabrielaguiar
 
 Email: gabrielchavesaguiar@gmail.com
 
