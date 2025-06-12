@@ -29,4 +29,4 @@ Email: gabrielchavesaguiar@gmail.com
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielca5&show_icons=true&bg_color=00000000)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielca5)](https://github.com/gabrielca5/github-readme-stats)
