@@ -29,4 +29,3 @@ Email: gabrielchavesaguiar@gmail.com
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielca5)](https://github.com/gabrielca5/github-readme-stats)
