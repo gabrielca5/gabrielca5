@@ -1,7 +1,7 @@
 
 
 ## 👋 Olá, eu sou o Gabriel!
-💻 Estudante de Ciência da Computação (1º semestre)
+💻 Estudante de Ciência da Computação (2º semestre)
 🎯 Apaixonado por programação, algoritmos e tecnologia
 🚀 Aprendendo: Python, HTML/CSS e mais!
 
